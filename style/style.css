@@ -1,0 +1,61 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+#answer{
+    width: 110px;
+    height: 30px;
+    border-radius: 25px;
+    text-align: center;
+}
+#title{
+    height: 80px;
+    width: 300px;
+    background-color: white;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+}
+#screen-results{
+    height: 300px;
+    width: 660px;
+    background-color:white;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+#display-notes{
+    margin-top: 50px;
+    height: 80px;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:large;
+}
+.buttons{
+    background-color: #1da1f2; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+
+}
+.buttons:hover {
+    background-color: #04498a;
+}
+
+.highlight {
+    background-color: rgb(102, 174, 225); /* or any other highlighting style you prefer */
+}
