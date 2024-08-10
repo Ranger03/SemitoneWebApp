@@ -10,11 +10,3 @@ phases:
     commands:
       - echo Running tests...
       - npm run test
-
-  build:
-    commands:
-      - echo Build phase (if needed)...
-
-  post_build:
-    commands:
-      - echo Post build phase (if needed)...
