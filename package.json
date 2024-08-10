@@ -1,0 +1,27 @@
+{
+  "name": "sakhile-kgaphola-199-semitone-difference-basic-algorithm-javascript",
+  "version": "1.0.0",
+  "description": "semitone difference - basic algorithm (199)\r For raw project instructions see: http://syllabus.africacode.net/projects/semitone-challenge/basic-algorithm/",
+  "main": "./src/jam_buddy.js",
+  "scripts": {
+    "test": "jasmine",
+    "build": "npx webpack --config webpack.config.js",
+    "watch": "webpack --config webpack.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Sakhile-Kgaphola-199-semitone-difference-basic-algorithm-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Sakhile-Kgaphola-199-semitone-difference-basic-algorithm-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Sakhile-Kgaphola-199-semitone-difference-basic-algorithm-javascript#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jsdom": "^24.0.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
