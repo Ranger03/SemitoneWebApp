@@ -43,7 +43,7 @@
     font-size:large;
 }
 .buttons{
-    background-color: green; /* #1da1f2; */
+    background-color: #04498a;
     color: #fff;
     border: none;
     padding: 10px 20px; 
@@ -53,7 +53,7 @@
 
 }
 .buttons:hover {
-    background-color: #04498a;
+    background-color: #1da1f2;
 }
 
 .highlight {
