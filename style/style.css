@@ -43,7 +43,7 @@
     font-size:large;
 }
 .buttons{
-    background-color: #1da1f2; 
+    background-color: green; /* #1da1f2; */
     color: #fff;
     border: none;
     padding: 10px 20px; 
@@ -57,5 +57,5 @@
 }
 
 .highlight {
-    background-color: rgb(102, 174, 225); /* or any other highlighting style you prefer */
+    background-color: rgb(102, 174, 225);
 }
